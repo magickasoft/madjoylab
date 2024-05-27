@@ -20,7 +20,7 @@
     "@emotion/styled": "11.11.5",
     "@next/bundle-analyzer": "14.2.3",
     "@vercel/analytics": "1.2.2",
-    "axios": "1.6.8",
+    "axios": "1.7.2",
     "color": "4.2.3",
     "cross-env": "7.0.3",
     "i18next": "23.11.3",
